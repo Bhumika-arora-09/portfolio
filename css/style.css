@@ -350,7 +350,7 @@ footer.footer-area .social a:hover > i{
 }
 
 body {
-    background-color: #f5e0e5 !important;
+   /*background-color: #f5e0e5 !important;*/
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
   
@@ -371,7 +371,7 @@ body {
   
   .contact-form .form-input,
   .form-text-area {
-    background-color: #f0f4f5;
+   /* background-color: #f0f4f5; */
     height: 50px;
     padding-left: 16px;
   }
